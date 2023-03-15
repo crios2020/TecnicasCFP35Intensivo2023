@@ -1,0 +1,19 @@
+Trayecto: Programador
+
+Curso: 	Técnicas de programación 120 hs
+Días:	Lunes Miércoles Viernes		09:00 hs a 13:00 hs
+Modalidad:		Lunes		presencial	(Algarrobo 1041)
+				Miércoles	virtual sincrónico
+				Viernes		virtual asincrónico
+				
+Profe:	Carlos Ríos			c.rios@bue.edu.ar
+
+Materiales:
+			Aula virtual: 
+			https://aulasvirtuales.bue.edu.ar/course/view.php?id=12662
+			
+			Github: https://github.com/crios2020/TecnicasCFP35Intensivo2023
+			
+			CodeShare: https://codeshare.io/crios2020
+			
+
