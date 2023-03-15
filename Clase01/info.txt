@@ -16,4 +16,20 @@ Materiales:
 			
 			CodeShare: https://codeshare.io/crios2020
 			
-
+Software:	
+			JDK		Java Develoment Kit	(Kit de Desarrollo Java)
+			JDK	17 LTS		Long Term Support (5 años)
+			https://www.oracle.com/ar/java/technologies/downloads/#java17
+			
+			GIT		Control de versiones(windows).
+			https://git-scm.com/				
+			
+			IDE		Integrated Development Enviroment. 
+					(Entorno de desarrollo integrado)
+			
+			VSCode - Eclipse - IntelliJ - Netbeans
+			https://code.visualstudio.com/
+					Extensiones:		Extension Pack for Java (Microsoft)
+			
+			
+			
