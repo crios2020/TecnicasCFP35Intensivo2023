@@ -1,0 +1,7 @@
+- Realizar un proyecto Springboot con una página html thymeleaf bootstrap que permita 
+    calcular el indice de masa corporal.
+
+        - Armar proyecto.
+        - Crear página html thymeleaf con bootstrap y css.
+        - Armar controlador Web que permita mostrar la página 
+                y el calculo IMC y el estado.
